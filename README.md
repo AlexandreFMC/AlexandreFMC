@@ -1,4 +1,4 @@
-## Olá! Eu sou o AlexandreFMC
+## Olá! Eu sou o Alexandre Costa
 
 - 🔭 Estou atualmente cursando ciência da computação;
 - 🤔 Tenho interesse em ingressar na área de Front-end;
