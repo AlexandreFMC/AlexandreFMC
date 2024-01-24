@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-costa-6b312b175/)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreFMC&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFMC&hide_progress=true)
 
 ## Tecnologias que eu uso
 
